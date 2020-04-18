@@ -1,0 +1,55 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+Header {
+
+Background: grey;
+
+}
+
+#section {
+Float:left;
+Width:50%;
+Height:750px;
+Margin-top:20px;
+Background: blue;
+
+}
+
+#left { 
+Position: absolute;
+Bottom:50%;
+left:25%
+}
+
+
+#division {
+Background: red;
+Float: right;
+Width: 25%;
+Height: 750px;
+Margin-top:20px;
+
+}
+
+#right { 
+Position: absolute;
+Bottom: 50%;
+right:12.5%;
+
+}
+
+Footer {
+Width:100%;
+Background:green;
+Position: absolute;
+Bottom: 10px;
+
+}
+
