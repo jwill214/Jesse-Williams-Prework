@@ -1,0 +1,25 @@
+#container{
+
+Margin-top:300px;
+
+}
+
+Body {
+
+Background: #34d9eb;
+}
+
+
+#line2 {
+Font-size: 70px;
+Font-family: Pacifico;
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+#line2 {
+Font-size: 45px;
+
+}
