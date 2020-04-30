@@ -13,5 +13,6 @@ in Module2_Assessment, I have placed another README.md file with instructions on
 
 Thank you for taking the time to evaluate my work. Any constructive feedback is very much welcomed. 
 
-peace,
+peace, 
+
 -Jesse D. Williams Jr.
