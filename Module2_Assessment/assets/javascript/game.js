@@ -28,7 +28,6 @@ const round3=function(){
         start.innerText='YOU BEAT THE GAME! CONGRATS!!!';
         stroke.innerText='Rounds Won:\n1.) kakashi \n2.) jariya \n3.) '+guessed;
         wins.innerText='Wins Under Your Belt: 3';
-        if (guessed === answer){
             alert('You Win');
             
             i=5;
